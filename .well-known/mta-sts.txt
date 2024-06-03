@@ -1,4 +1,6 @@
 version: STSv1
 mode: enforce
+mx: d231216.a.ess.uk.barracudanetworks.com
 mx: d231216.b.ess.uk.barracudanetworks.com
+mx: primitas-co-uk.mail.protection.outlook.com
 max_age: 1209600
